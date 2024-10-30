@@ -1,0 +1,6 @@
+* Add an option to the GUI for an Update option that will not create duplicate posts
+* Add an option to the GUI for an Export option that will create a Map Navigation file from a taxonomy
+* Add an option to the GUI to specify the Custom field used by MapPress instead of map_address
+* Add support automatically creating navigation posts from new posts that are part of Maps taxonomy
+* Add support to create the taxonomy automatically instead of manually editing the themes functions.php file
+* Add an option to the GUI for deleting all posts , categories and tags associated with Map Navigation posts

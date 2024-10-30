@@ -1,0 +1,173 @@
+nav_post_title,nav_post_post,nav_post_excerpt,nav_post_categories,nav_post_tags,nav_post_date,nav_post_author,nav_post_slug,nav_ctax_maps,map_address
+United States Regions,"<p>mapClicks in the USA, click on a region marker to go to a map of states</p>
+[mashup show=""query"" marker_title=""post"" marker_link=""true"" marker_body=""excerpt"" zoom=""3"" show_query=""category=Region&tag=usa-region""]",<p>mapClicks in the USA</p>,"Maps > Continent > Country ,Map Navigator","usa,mapclick-affiliates",12/30/2011,mapclick,usa-all-regions,"0,Continent
+Continent, ""North America""
+0,Country
+Country, USA",
+Mountain Region States,"<p>mapClicks in the Mountain Region States of the USA</p>
+[mashup show=query marker_title=post marker_link=true marker_body=excerpt  zoom=5 show_query=category=State&tag=mountain-states]",<p>mapClicks in the Mountain Region States of the USA</p>,"Maps > Continent > Country > Region,Map Navigator","usa-region,mapclick-affiliate",12/30/2011,mapclick,mountain-states,"0,Continent
+Continent, ""North America""
+0,Country
+Country, USA
+0,Region
+Region, Mountain","address=""Salt Lake City, Utah"" title='Mountain Region States'  iconid='red-dot'  Body='Mountain Region States'"
+Arizona Map,"<p>mapclicks affiliates for Cities in Arizona </p>
+[mashup show=query marker_title=post marker_link=true marker_body=excerpt  zoom=5 show_query=category=City&tag=arizona-city]",<p>mapclicks affiliates for Cities in Arizona </p>,"Maps > Continent > Country > Region > State,Map Navigator","mountain-states,mapclick-affiliate",12/28/2011,mapclick,usa-mountain-states-arizona,"0,Continent
+Continent, North America
+0,Country
+Country, USA
+0,Region
+Region, Mountain
+0,State
+State,Arizona","address=""Phoenix, Arizona "" title='Arizona Map'  iconid=""red-dot""  body='Arizona Map'"
+Colorado Map,"<p>mapclicks affiliates for Cities in Colorado </p>
+[mashup show=query marker_title=post marker_link=true marker_body=excerpt  zoom=5 show_query=category=City&tag=colorado-city]",<p>mapclicks affiliates for Cities in Colorado </p>,"Maps > Continent > Country > Region > State,Map Navigator","mountain-states,mapclick-affiliate",12/30/2011,mapclick,usa-mountain-states-colorado,"0,Continent
+Continent, North America
+0,Country
+Country, USA
+0,Region
+Region, Mountain
+0,State
+State,Colorado","address=""Denver, Colorado "" title='Colorado Map'  iconid='red-dot'  Body='Colorado Map'"
+Idaho Map,"<p>mapclicks affiliates for Cities in Idaho </p>
+[mashup show=query marker_title=post marker_link=true marker_body=excerpt  zoom=5 show_query=category=City&tag=idaho-city]",<p>mapclicks affiliates for Cities in Idaho </p>,"Maps > Continent > Country > Region > State,Map Navigator","mountain-states,mapclick-affiliate",12/30/2011,mapclick,usa-mountain-states-idaho,"0,Continent
+Continent, North America
+0,Country
+Country, USA
+0,Region
+Region, Mountain
+0,State
+State,Idaho","address=""Boise, Idaho "" title='Idaho Map'  iconid='red-dot'  Body='Idaho Map'"
+Montana Map,"<p>mapclicks affiliates for Cities in Montana </p>
+[mashup show=query marker_title=post marker_link=true marker_body=excerpt  zoom=5 show_query=category=City&tag=montana-city]",<p>mapclicks affiliates for Cities in Montana </p>,"Maps > Continent > Country > Region > State,Map Navigator","mountain-states,mapclick-affiliate",12/28/2011,mapclick,usa-mountain-states-montana,"0,Continent
+Continent, North America
+0,Country
+Country, USA
+0,Region
+Region, Mountain
+0,State
+State,Montana","address=""Helena, Montana "" title='Montana Map'  iconid=""red-dot""  body='Montana Map'"
+New Mexico Map,"<p>mapclicks affiliates for Cities in NewMexico </p>
+[mashup show=query marker_title=post marker_link=true marker_body=excerpt  zoom=5 show_query=category=City&tag=newmexico-city]",<p>mapclicks affiliates for Cities in NewMexico </p>,"Maps > Continent > Country > Region > State,Map Navigator","mountain-states,mapclick-affiliate",12/28/2011,mapclick,usa-mountain-states-newmexico,"0,Continent
+Continent, North America
+0,Country
+Country, USA
+0,Region
+Region, Mountain
+0,State
+State,New Mexico","address=""Santa Fe, New Mexico "" title='New Mexico Map'  iconid=""red-dot""  body='New Mexico Map'"
+Nevada Map,"<p>mapclicks affiliates for Cities in Nevada </p>
+[mashup show=query marker_title=post marker_link=true marker_body=excerpt  zoom=5 show_query=category=City&tag=nevada-city]",<p>mapclicks affiliates for Cities in Nevada </p>,"Maps > Continent > Country > Region > State,Map Navigator","mountain-states,mapclick-affiliate",12/30/2011,mapclick,usa-mountain-states-nevada,"0,Continent
+Continent, North America
+0,Country
+Country, USA
+0,Region
+Region, Mountain
+0,State
+State,Nevada","address=""Carson City, Nevada "" title='Nevada Map'  iconid='red-dot'  Body='Nevada Map'"
+Utah Map,"<p>mapclicks affiliates for Cities in Utah </p>
+[mashup show=query marker_title=post marker_link=true marker_body=excerpt  zoom=5 show_query=category=City&tag=utah-city]",<p>mapclicks affiliates for Cities in Utah </p>,"Maps > Continent > Country > Region > State,Map Navigator","mountain-states,mapclick-affiliate",12/30/2011,mapclick,usa-mountain-states-utah,"0,Continent
+Continent, North America
+0,Country
+Country, USA
+0,Region
+Region, Mountain
+0,State
+State,Utah","address=""Salt Lake City, Utah "" title='Utah Map'  iconid='red-dot'  Body='Utah Map'"
+Wyoming Map,"<p>mapclicks affiliates for Cities in Wyoming </p>
+[mashup show=query marker_title=post marker_link=true marker_body=excerpt  zoom=5 show_query=category=City&tag=wyoming-city]",<p>mapclicks affiliates for Cities in Wyoming </p>,"Maps > Continent > Country > Region > State,Map Navigator","mountain-states,mapclick-affiliate",12/30/2011,mapclick,usa-mountain-states-wyoming,"0,Continent
+Continent, North America
+0,Country
+Country, USA
+0,Region
+Region, Mountain
+0,State
+State,Wyoming","address=""Cheyenne, Wyoming "" title='Wyoming Map'  iconid='red-dot'  Body='Wyoming Map'"
+"Phoenix, Arizona Map","<p>mapClicks affiliate for Phoenix, Arizona </p>
+[mappress zoom=5]","<p>mapClicks affiliate for Phoenix, Arizona </p>","Maps > Continent > Country > Region > State > City,Map Navigator","arizona-city,mapclick-affiliates",12/30/2011,mapclick,usa-mountain-states-arizona-city,"0,Continent
+Continent, North America
+0,Country
+Country, USA
+0,Region
+Region, Mountain
+0,State
+State,Arizona
+0,City
+City,Phoenix","address=""Phoenix, Arizona"" title=""Phoenix""  iconid=""red-dot""  body=""Phoenix, Arizona mapClick Affiliate"""
+"Denver, Colorado Map","<p>mapClicks affiliate for Denver, Colorado </p>
+[mappress zoom=5]","<p>mapClicks affiliate for Denver, Colorado </p>","Maps > Continent > Country > Region > State > City,Map Navigator","colorado-city,mapclick-affiliates",12/30/2011,mapclick,usa-mountain-states-colorado-city,"0,Continent
+Continent, North America
+0,Country
+Country, USA
+0,Region
+Region, Mountain
+0,State
+State,Colorado
+0,City
+City,Denver","address=""Denver, Colorado"" title=""Denver""  iconid=""red-dot""  body=""Denver, Colorado mapClick Affiliate"""
+"Boise, Idaho Map","<p>mapClicks affiliate for Boise, Idaho </p>
+[mappress zoom=5]","<p>mapClicks affiliate for Boise, Idaho </p>","Maps > Continent > Country > Region > State > City,Map Navigator","idaho-city,mapclick-affiliates",12/30/2011,mapclick,usa-mountain-states-idaho-city,"0,Continent
+Continent, North America
+0,Country
+Country, USA
+0,Region
+Region, Mountain
+0,State
+State,Idaho
+0,City
+City,Boise","address=""Boise, Idaho"" title=""Boise""  iconid=""red-dot""  body=""Boise, Idaho mapClick Affiliate"""
+"Helena, Montana Map","<p>mapClicks affiliate for Helena, Montana </p>
+[mappress zoom=5]","<p>mapClicks affiliate for Helena, Montana </p>","Maps > Continent > Country > Region > State > City,Map Navigator","montana-city,mapclick-affiliates",12/30/2011,mapclick,usa-mountain-states-montana-city,"0,Continent
+Continent, North America
+0,Country
+Country, USA
+0,Region
+Region, Mountain
+0,State
+State,Montana
+0,City
+City,Helena","address=""Helena, Montana"" title=""Helena""  iconid=""red-dot""  body=""Helena, Montana mapClick Affiliate"""
+"Santa Fe, New Mexico Map","<p>mapClicks affiliate for Santa Fe, NewMexico </p>
+[mappress zoom=5]","<p>mapClicks affiliate for Santa Fe, NewMexico </p>","Maps > Continent > Country > Region > State > City,Map Navigator","newmexico-city,mapclick-affiliates",12/30/2011,mapclick,usa-mountain-states-newmexico-city,"0,Continent
+Continent, North America
+0,Country
+Country, USA
+0,Region
+Region, Mountain
+0,State
+State,NewMexico
+0,City
+City,Santa Fe","address=""Santa Fe, New Mexico"" title=""Santa Fe""  iconid=""red-dot""  body=""Santa Fe, NewMexico mapClick Affiliate"""
+"Carson City, Nevada Map","<p>mapClicks affiliate for Carson City, Nevada </p>
+[mappress zoom=5]","<p>mapClicks affiliate for Carson City, Nevada </p>","Maps > Continent > Country > Region > State > City,Map Navigator","nevada-city,mapclick-affiliates",12/28/2011,mapclick,usa-mountain-states-nevada-city,"0,Continent
+Continent, North America
+0,Country
+Country, USA
+0,Region
+Region, Mountain
+0,State
+State,Nevada
+0,City
+City,Carson City","address=""Carson City, Nevada"" title=""Carson City""  iconid=""red-dot""  body=""Carson City, Nevada mapClick Affiliate"""
+"Salt Lake City, Utah Map","<p>mapClicks affiliate for Salt Lake City, Utah </p>
+[mappress zoom=5]","<p>mapClicks affiliate for Salt Lake City, Utah </p>","Maps > Continent > Country > Region > State > City,Map Navigator","utah-city,mapclick-affiliates",12/30/2011,mapclick,usa-mountain-states-utah-city,"0,Continent
+Continent, North America
+0,Country
+Country, USA
+0,Region
+Region, Mountain
+0,State
+State,Utah
+0,City
+City,Salt Lake City","address=""Salt Lake City, Utah"" title=""Salt Lake City""  iconid=""red-dot""  body=""Salt Lake City, Utah mapClick Affiliate"""
+"Cheyenne, Wyoming Map","<p>mapClicks affiliate for Cheyenne, Wyoming </p>
+[mappress zoom=5]","<p>mapClicks affiliate for Cheyenne, Wyoming </p>","Maps > Continent > Country > Region > State > City,Map Navigator","wyoming-city,mapclick-affiliates",12/30/2011,mapclick,usa-mountain-states-wyoming-city,"0,Continent
+Continent, North America
+0,Country
+Country, USA
+0,Region
+Region, Mountain
+0,State
+State,Wyoming
+0,City
+City,Cheyenne","address=""Cheyenne, Wyoming"" title=""Cheyenne""  iconid=""red-dot""  body=""Cheyenne, Wyoming mapClick Affiliate"""
